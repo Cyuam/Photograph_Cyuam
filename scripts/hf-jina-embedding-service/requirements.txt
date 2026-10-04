@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+transformers>=5.1.0
+peft
+torch
+torchvision
+Pillow
